@@ -56,7 +56,7 @@ As a result, there is only a difference in container size - negligible(🤔) . A
 
 ## License 
 
-GNU General Public License v3.0
+[UPX License Agreement]
 
 [scratch]: https://hub.docker.com/_/scratch/
 [UPX]: https://github.com/upx/upx
@@ -64,3 +64,4 @@ GNU General Public License v3.0
 [gruebel/upx]: https://github.com/gruebel/docker-upx
 [GitHub API]: https://docs.github.com/en/rest
 [quay.io/kkh913/upx]: https://quay.io/repository/kkh913/upx
+[UPX License Agreement]: https://upx.github.io/upx-license.html
